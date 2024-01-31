@@ -75,7 +75,7 @@ const Footer = () => {
 
      <hr></hr>
 
-     <div className='flex flex-col sm:flex-row gap-8 sm:items-center justify-between my-6'>
+     <div className='flex flex-col sm:flex-row gap-8 sm:items-center justify-between my-7'>
       <h6 className='mt-2'>@ PayWay 2021 to 2024. All rights reserved.</h6>
       <div className='flex items-center space-x-3'>
         <img src={facebook1} alt='' className='w-8 cursor-pointer hover:-translate-y-3 duration-400 transition-all'/>
