@@ -41,7 +41,7 @@ const Features = () => {
 
             
             <div className="bg-white rounded-[30px] cursor-pointer md:mt-16 h-96 shadow-3xl p-8 items-center flex flex-col justify-center hover:-translate-y-4 transition-all duration-300">
-              <img src={pic2} alt='' style={{ width: '40%' }} className="ml-auto mr-auto hover:scale-105 duration-400 shadow shadow-5xl" />
+              <img src={pic2} alt='' style={{ width: '40%' }} className="ml-auto mr-auto hover:scale-105 duration-400 shadow shadow-4xl" />
               <p className='font-bold text-lg text-pretty mt-4'>Ava Lily</p>
               <h5 className='text-lg  font-bold text-green-900 px-5 text-center mt-5 hover:scale-75 duration-100'>The intuitive design not only simplifies the process but also adds a touch of sophistication to the overall user experience.</h5>
             </div>
