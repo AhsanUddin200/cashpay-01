@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import logo from '../assets/logo.jpg'
 import { FaLanguage } from "react-icons/fa6";
 import { TiThMenu } from "react-icons/ti";

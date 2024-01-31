@@ -1,4 +1,4 @@
-import React from 'react'
+
 import money from '../assets/money.png'
 import Banner from '../shared/Banner'
 

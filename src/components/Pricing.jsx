@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import planImageGreen from '../assets/green.png'
 import planImageRed from '../assets/red.jpg'
 import { motion } from 'framer-motion';

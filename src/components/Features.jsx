@@ -1,5 +1,5 @@
 
-import feature from '../assets/feature.png';
+
 import pic1 from '../assets/pic1.png'
 import pic2 from '../assets/pic2.png'
 import pic3 from '../assets/pic3.png'
@@ -36,21 +36,21 @@ const Features = () => {
             <div className="bg-white rounded-[30px] h-96 shadow-3xl cursor-pointer md:ml-16 p-8 items-center flex flex-col justify-center hover:-translate-y-4 transition-all duration-300">
               <img src={pic1} alt='' style={{ width: '40%' }} className="mb-4 mx-auto hover:scale-125 duration-700 shadow shadow-5xl" />
               <p className='font-bold text-sm text-pretty'>John Alias</p>
-              <h5 className='text-sm font-semibold text-green-900 px-5 text-center mt-5 hover:scale-125 duration-700'>"This app prioritizes security  robust measures, safe environment for financial transactions."</h5>
+              <h5 className='text-sm font-semibold text-green-900 px-5 text-center mt-5 hover:scale-125 duration-700'>This app prioritizes security  robust measures, safe environment for financial transactions.</h5>
             </div>
 
             
             <div className="bg-white rounded-[30px] cursor-pointer md:mt-16 h-96 shadow-3xl p-8 items-center flex flex-col justify-center hover:-translate-y-4 transition-all duration-300">
               <img src={pic2} alt='' style={{ width: '40%' }} className="ml-auto mr-auto hover:scale-105 duration-400 shadow shadow-5xl" />
               <p className='font-bold text-lg text-pretty mt-4'>Ava Lily</p>
-              <h5 className='text-lg  font-bold text-green-900 px-5 text-center mt-5 hover:scale-75 duration-100'>"The intuitive design not only simplifies the process but also adds a touch of sophistication to the overall user experience."</h5>
+              <h5 className='text-lg  font-bold text-green-900 px-5 text-center mt-5 hover:scale-75 duration-100'>The intuitive design not only simplifies the process but also adds a touch of sophistication to the overall user experience.</h5>
             </div>
 
             
             <div className="bg-white rounded-[30px] h-96 cursor-pointer shadow-3xl p-8 items-center flex flex-col justify-center hover:-translate-y-4 transition-all duration-300">
               <img src={pic3} alt='' style={{ width: '40%' }} className="ml-auto mr-auto hover:scale-90 duration-700" />
               <p className='font-bold text-sm text-pretty mt-4'>Sheikh Abdul Mateen</p>
-              <h5 className='text-sm font-semibold text-green-900 px-5 text-center mt-5 hover:scale-90 duration-700'>"The app has proven its reliability time and again, solidifying its reputation as a trustworthy platform for financial transactions."</h5>
+              <h5 className='text-sm font-semibold text-green-900 px-5 text-center mt-5 hover:scale-90 duration-700'>The app has proven its reliability time and again, solidifying its reputation as a trustworthy platform for financial transactions.</h5>
             </div>
           </div>
         </motion.div>

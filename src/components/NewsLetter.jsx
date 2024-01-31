@@ -1,4 +1,4 @@
-import React from 'react';
+
 import news from '../assets/news.png';
 import Banner from '../shared/Banner';
 
