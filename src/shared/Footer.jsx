@@ -2,7 +2,6 @@
 import logo1 from '../assets/logo1.png'
 import linkedin from '../assets/linkedin.png'
 import pinterest from '../assets/pinterest.png'
-
 import twitter from '../assets/twitter.png'
 import facebook1 from '../assets/facebook1.png'
 import telegram from '../assets/telegram.png'
