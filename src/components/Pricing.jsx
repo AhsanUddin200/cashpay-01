@@ -140,7 +140,7 @@ const Pricing = () => {
   
 </ul>
 <div className='w-full mx-auto flex items-center justify-center'>
-<button className='px-7  py-2 bg-green-800 font semi-bold text-white rounded-lg hover:bg-green-400 transition-all duration-100 mt-5 hover:text-green-900 font-semibold'>Get start</button>
+<button className='px-7  py-3 bg-green-800 font semi-bold text-white rounded-lg hover:bg-green-400 transition-all duration-100 mt-5 hover:text-green-900 font-semibold'>Get start</button>
 </div>
                </div>)
             }

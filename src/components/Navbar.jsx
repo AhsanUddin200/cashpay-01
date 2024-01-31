@@ -63,7 +63,7 @@ const Navbar = () => {
         </div>
     </nav>
     
-    <div className={`space-y-16 px-4 pt-6 pb-48 bg-green-900  text-3xl cursor-pointer  ${menuOpen ? "block fixed top-0 right-0 left-0" : "hidden"}`}>
+    <div className={`space-y-16 px-5 pt-6 pb-48 bg-green-900  text-3xl cursor-pointer  ${menuOpen ? "block fixed top-0 right-0 left-0" : "hidden"}`}>
      <div className='flex justify-end'>
      <button onClick={toggleMenu} className='text-white text-lg font-bold focus:outline-none focus:text-gray-600'>
             {
