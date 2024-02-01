@@ -2,7 +2,7 @@
 import logo1 from '../assets/logo1.png'
 import linkedin from '../assets/linkedin.png'
 import pinterest from '../assets/pinterest.png'
-import twitter from '../assets/twitter.png'
+
 import facebook1 from '../assets/facebook1.png'
 import telegram from '../assets/telegram.png'
 const Footer = () => {
@@ -79,7 +79,7 @@ const Footer = () => {
       <h6 className='mt-2'>@ PayWay 2021 to 2024. All rights reserved.</h6>
       <div className='flex items-center space-x-3'>
         <img src={facebook1} alt='' className='w-8 cursor-pointer hover:-translate-y-3 duration-400 transition-all'/>
-        <img src={twitter} alt='' className='w-8 cursor-pointer hover:-translate-x-3 duration-400 transition-all' />
+       
         <img src={linkedin} alt=''  className='w-8 cursor-pointer hover:-translate-y-3 duration-400 transition-all'/>
         <img src={pinterest} alt='' className='w-8 cursor-pointer hover:-translate-x-3 duration-400 transition-all' />
         <img src={telegram} alt='' className='w-8 cursor-pointer hover:-translate-y-3 duration-400 transition-all' />
